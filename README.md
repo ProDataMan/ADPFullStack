@@ -1,3 +1,3 @@
 # ADPFullStack
 
-https://ascendientlearning.sharepoint.com/:x:/s/ProgramManagement/ESm3chi2I7VLks2DejHuXOwBSrgkv-9q3gmL3ab8IY3DTw
+Preliminary Knowledge Assessment:   https://www.proprofs.com/quiz-school/ugc/story.php?title=preliminary-knowledge-assessment-adp-app-dev-2025gb
