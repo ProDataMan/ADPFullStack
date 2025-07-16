@@ -5,8 +5,6 @@ Preliminary Knowledge Assessment:   https://www.proprofs.com/quiz-school/ugc/sto
 
 Agile Videos: https://www.prodataman.com/2015/10/09/scrum-agile-resources/
 
-Here is the updated GitHub-style markdown table **excluding the `AccessKeyId`** column:
-
 
 | Person              | AccountAlias      | IAMUserName | IAMUserPassword | SecretAccessKey                                      |
 |---------------------|-------------------|-------------|------------------|------------------------------------------------------|
